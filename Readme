@@ -1,10 +1,6 @@
 Here are the code and data for the paper General and Stable Emulation of Finite State Machines with Spiking Neural Networks.
-
-In this research, we focus on the emulation of FSMs with the use of neural networks to harness the strengths of both paradigms.
-Our work is inspired by the similarity between the spike-based information representation in bio-inspired spiking neural networks (SNNs) 
-and the discrete state transition in FSMs. Our work not only presents a significant advancement in the stable emulation of general FSMs with SNNs, 
-but also provides a promising approach for modeling complex temporal systems with especially long sequences.
-
+In this research, we focus on the emulation of FSMs with the use of neural networks to harness the strengths of both paradigms. Our work is inspired by the similarity between the spike-based information representation in bio-inspired spiking neural networks (SNNs) 
+and the discrete state transition in FSMs. Our work not only presents a significant advancement in the stable emulation of general FSMs with SNNs, but also provides a promising approach for modeling complex temporal systems with especially long sequences.
 The code and data are coming soon.
 
 
